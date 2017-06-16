@@ -1,0 +1,8 @@
+{
+  "name": "web-js-import-graphs",
+  "version": "0.0.1",
+  "dependencies": {
+    "glob": "^7.1.1",
+    "madge": "1.6.0"
+  }
+}
